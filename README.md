@@ -1,6 +1,8 @@
 # retrospective
 
 ## A tool to handle the retrospective ceremony
+This tool will handle multiple connections to add anonymously feedback at the
+retrospective.
 
 How to install:
 1. On the desired folder:
